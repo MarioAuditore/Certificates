@@ -1,2 +1,2 @@
 # Certificates
-Repo to store all certificates I currently have
+Repo to store all the certificates I currently have
